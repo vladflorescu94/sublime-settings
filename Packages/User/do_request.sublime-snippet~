@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+response = $0 do_request(@method, @action, @data)
+]]>
+</content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>doreq</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

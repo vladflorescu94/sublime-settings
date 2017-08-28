@@ -1,0 +1,9 @@
+{
+   "scope": "source.js",
+
+   "completions":
+   [
+      { "trigger": "pvp", "contents": "parent.view.prototype.$0.apply(this, arguments);" },
+      { "trigger": "pmpp", "contents": "parent.model.prototype.$0.apply(this, arguments);" }
+   ]
+}
